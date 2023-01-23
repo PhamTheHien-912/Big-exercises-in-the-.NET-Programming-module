@@ -1,0 +1,85 @@
+D:\HOC TAP\ver1\QLDT3\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\HOC TAP\ver1\QLDT3\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\HOC TAP\ver1\QLDT3\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\HOC TAP\ver1\QLDT3\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\HOC TAP\ver1\QLDT3\BusinessLogic\bin\Debug\DataAccess.dll
+D:\HOC TAP\ver1\QLDT3\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\HOC TAP\ver1\QLDT3\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\HOC TAP\ver1\QLDT3\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\HOC TAP\ver1\QLDT3\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\HOC TAP\ver1\QLDT4\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\HOC TAP\ver1\QLDT4\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\HOC TAP\ver1\QLDT4\BusinessLogic\bin\Debug\DataAccess.dll
+D:\HOC TAP\ver1\QLDT4\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\HOC TAP\ver1\QLDT4\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\HOC TAP\ver1\QLDT4\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\HOC TAP\ver1\QLDT4\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\HOC TAP\ver1\QLDT4\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\HOC TAP\ver1\QLDT4\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\HOC TAP\ver1\QLDT5\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\HOC TAP\ver1\QLDT5\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\HOC TAP\ver1\QLDT5\BusinessLogic\bin\Debug\DataAccess.dll
+D:\HOC TAP\ver1\QLDT5\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\HOC TAP\ver1\QLDT5\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\HOC TAP\ver1\QLDT5\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\HOC TAP\ver1\QLDT5\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\HOC TAP\ver1\QLDT5\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\HOC TAP\ver1\QLDT5\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\HOC TAP\ver1\QLDT6\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\HOC TAP\ver1\QLDT6\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\HOC TAP\ver1\QLDT6\BusinessLogic\bin\Debug\DataAccess.dll
+D:\HOC TAP\ver1\QLDT6\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\HOC TAP\ver1\QLDT6\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\HOC TAP\ver1\QLDT6\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\HOC TAP\ver1\QLDT6\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\HOC TAP\ver1\QLDT6\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\HOC TAP\ver1\QLDT6\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\HOC TAP\ver1\QLDT7\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\HOC TAP\ver1\QLDT7\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\HOC TAP\ver1\QLDT7\BusinessLogic\bin\Debug\DataAccess.dll
+D:\HOC TAP\ver1\QLDT7\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\HOC TAP\ver1\QLDT7\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\HOC TAP\ver1\QLDT7\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\HOC TAP\ver1\QLDT7\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\HOC TAP\ver1\QLDT7\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\HOC TAP\ver1\QLDT7\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\BusinessLogic\bin\Debug\DataAccess.dll
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\BusinessLogic\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\BusinessLogic\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Quan ly de tai\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Quan ly de tai\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Quan ly de tai\BusinessLogic\bin\Debug\DataAccess.dll
+E:\Quan ly de tai\BusinessLogic\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Quan ly de tai\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\Quan ly de tai\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+E:\Quan ly de tai\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Quan ly de tai\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+E:\Quan ly de tai\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Quan ly de tai\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\BusinessLogic\bin\Debug\DataAccess.dll
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\BusinessLogic\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\BusinessLogic\obj\Debug\BusinessLogic.pdb

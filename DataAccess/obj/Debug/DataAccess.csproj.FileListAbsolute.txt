@@ -1,0 +1,38 @@
+D:\HOC TAP\ver1\QLDT3\DataAccess\bin\Debug\DataAccess.dll
+D:\HOC TAP\ver1\QLDT3\DataAccess\bin\Debug\DataAccess.pdb
+D:\HOC TAP\ver1\QLDT3\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\HOC TAP\ver1\QLDT3\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\HOC TAP\ver1\QLDT3\DataAccess\obj\Debug\DataAccess.dll
+D:\HOC TAP\ver1\QLDT3\DataAccess\obj\Debug\DataAccess.pdb
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\DataAccess\bin\Debug\DataAccess.dll
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\DataAccess\bin\Debug\DataAccess.pdb
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\DataAccess\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\DataAccess\obj\Debug\DataAccess.dll
+E:\User Pham The Hien\Admin\Documents\Đồ án tốt nghiệp\QLDT8\QLDT8\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\DataAccess\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\my laptop\OneDrive - Hanoi University of Mining and Geology\Lap trinh .NET + BTL\Bai Tap Lon\QLDT8\QLDT8\DataAccess\obj\Debug\DataAccess.pdb
+E:\Quan ly de tai\DataAccess\bin\Debug\DataAccess.dll
+E:\Quan ly de tai\DataAccess\bin\Debug\DataAccess.pdb
+E:\Quan ly de tai\DataAccess\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Quan ly de tai\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\Quan ly de tai\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\Quan ly de tai\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\Quan ly de tai\DataAccess\obj\Debug\DataAccess.dll
+E:\Quan ly de tai\DataAccess\obj\Debug\DataAccess.pdb
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\DataAccess\bin\Debug\DataAccess.dll
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\DataAccess\bin\Debug\DataAccess.pdb
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\DataAccess\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\DataAccess\obj\Debug\DataAccess.dll
+E:\User Pham The Hien\Admin\Documents\Lập trình .NET_C#\Quan ly de tai\DataAccess\obj\Debug\DataAccess.pdb

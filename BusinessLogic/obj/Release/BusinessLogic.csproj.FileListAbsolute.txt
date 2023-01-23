@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Module 2\Detai\BusinessLogic\bin\Release\BusinessLogic.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Module 2\Detai\BusinessLogic\bin\Release\BusinessLogic.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Module 2\Detai\BusinessLogic\bin\Release\DataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Module 2\Detai\BusinessLogic\bin\Release\DataAccess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Module 2\Detai\BusinessLogic\obj\Release\BusinessLogic.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Module 2\Detai\BusinessLogic\obj\Release\BusinessLogic.pdb

@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Module 2\Detai\DataAccess\bin\Release\DataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Module 2\Detai\DataAccess\bin\Release\DataAccess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Module 2\Detai\DataAccess\obj\Release\DataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Module 2\Detai\DataAccess\obj\Release\DataAccess.pdb
